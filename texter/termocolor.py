@@ -8,7 +8,7 @@ colors = {
     "magenta": "\x1b[01;35m",
     "cyan": "\x1b[01;36m",
     "white": "\x1b[01;37m",#�����
-    "red": "\x1b[01;38m",#�������
+    "red": "\x1b[01;38m",
     "bold": "\x1b[01;39m"
 }
 
