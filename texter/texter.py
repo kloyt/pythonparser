@@ -34,7 +34,7 @@ def filelist(file):
         string = re.sub("^\s+|\n|\r|\s+$", '', string)
         if len(string) < 1:
             continue
-
+          
         smalllist = string.split(" ") 
         wordlist = wordlist + smalllist 
     return wordlist
